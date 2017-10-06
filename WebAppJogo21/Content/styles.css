@@ -1,0 +1,31 @@
+﻿body {
+
+    background: url(../images/fundo2.jpg);
+    background-repeat: repeat;
+
+}
+
+#cartasj1, #cartasj2 {
+
+    background: url(../images/fundotransparente.png);
+    background-repeat: repeat;
+
+}
+
+#paineljogador1, #paineljogador2 {
+
+    background-color: lightcyan !important;
+
+}
+
+#simboloVezJogador1, #simboloVezJogador2 {
+
+    color: green;
+
+}
+
+#titulo {
+
+    color: white;
+
+}
