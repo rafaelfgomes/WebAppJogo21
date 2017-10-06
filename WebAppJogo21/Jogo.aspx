@@ -17,7 +17,7 @@
         <link rel="icon" href="images/Coringa.png" />
 
         <title>Jogo 21</title>
-
+        <a href="Jogo.aspx">Jogo.aspx</a>
     </head>
 
     <body>
@@ -72,7 +72,7 @@
 
                             <div class="col-md-2 col-sm-2 text-left">
 
-                                <asp:Label ID="lblQtdPontosJogador1" runat="server" Text=""></asp:Label>
+                                <asp:Label ID="lblQtdPontosJogador1" runat="server" Font-Size="Large" Text=""></asp:Label>
 
                             </div>
 
@@ -168,7 +168,7 @@
 
                             <div class="col-md-2 col-sm-2 text-left">
 
-                                <asp:Label ID="lblQtdPontosJogador2" runat="server" Text=""></asp:Label>
+                                <asp:Label ID="lblQtdPontosJogador2" Font-Size="Large" runat="server" Text=""></asp:Label>
 
                             </div>
 
