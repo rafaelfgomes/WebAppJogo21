@@ -92,8 +92,24 @@
                     </div>
 
                     <div class="panel-footer">
+
+                        <div class="row">
+
+                            <div class="col-md-6">
+
+                                <p class="text-left h5"><a href="https://github.com/rafaelfgomes/WebAppJogo21.git" target="_blank">Código fonte do projeto</a></p>
+
+                            </div>
+
+                            <div class="col-md-6">
+
+                                <p class="text-right h5">Jogo desenvolvido por Rafael Gomes&copy</p>
+
+                            </div>
+
+                        </div>
                         
-                        <p class="text-right h5">Jogo desenvolvido por Rafael Gomes&copy</p>
+                        
 
                     </div>
 
